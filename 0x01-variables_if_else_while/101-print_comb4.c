@@ -18,7 +18,6 @@ int main(void)
 				if (i != j && i < j && j < k)
 				{
 					putchar(j + 48);
-					putchar(i + 48);
 					putchar(j + 48);
 					putchar(k + 48);
 					if (!((i == 7) && (j == 8) && (k == 9)))
