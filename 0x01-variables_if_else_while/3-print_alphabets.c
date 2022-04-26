@@ -5,7 +5,6 @@
  * prints alphabet in lowe case then uppercase
  * Return: Always 0 (Success)
  */
- 
 int main(void)
 {
 	int letters;
