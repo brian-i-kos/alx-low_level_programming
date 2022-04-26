@@ -4,7 +4,7 @@
  * _abs - computes absolute values of an integer
  * @n: is an integer
  *
- * Return :Always 0 (Success) 
+ * Return :Always 0 (Success)
  */
 int _abs(int n)
 {
