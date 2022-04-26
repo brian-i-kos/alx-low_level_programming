@@ -4,11 +4,11 @@
  * _abs - computes absolute values of an integer
  * @n: is an integer
  *
- * Return : integer
+ * Return : is an integer
  */
 int _abs(int n)
 {
-	if(n >0)
+	if(n > 0)
 	{
 		return (n);
 	}
